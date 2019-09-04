@@ -6,6 +6,11 @@ html,body{
 body{
     padding: 0px 25%
 }
+.container{
+    box-shadow: 1px 0px 0px 1.5px rgba(0, 0, 0, 0.16);
+    border: 1px solid transparent;
+    border-radius: 3px 3px 3px 3px;
+}
 h1{
     width: 100%;
     border-bottom: 1.5px solid gray;
